@@ -8,5 +8,6 @@ namespace EmployeeManagement.Core.Interfaces
 {
     public interface IBonusService
     {
+        decimal CalculateBonus(int yearsOfExperience);
     }
 }

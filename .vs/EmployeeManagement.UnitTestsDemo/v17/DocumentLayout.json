@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.tests\\testbase\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|solutionrelative:employeemanagement.tests\\testbase\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.tests\\testdata\\bonustestcases.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|solutionrelative:employeemanagement.tests\\testdata\\bonustestcases.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.tests\\validationservicetests\\employeevalidationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|solutionrelative:employeemanagement.tests\\validationservicetests\\employeevalidationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.tests\\discountservicetests\\discountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|solutionrelative:employeemanagement.tests\\discountservicetests\\discountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.tests\\bonusservicetests\\bonusservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|solutionrelative:employeemanagement.tests\\bonusservicetests\\bonusservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|solutionrelative:employeemanagement.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.core\\interfaces\\ibonusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|solutionrelative:employeemanagement.core\\interfaces\\ibonusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.core\\services\\employeevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|solutionrelative:employeemanagement.core\\services\\employeevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.core\\services\\bonusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|solutionrelative:employeemanagement.core\\services\\bonusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.core\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|solutionrelative:employeemanagement.core\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.tests\\bonusservicetests\\bonusservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|solutionrelative:employeemanagement.tests\\bonusservicetests\\bonusservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestBase.cs",
-              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\TestBase\\TestBase.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.Tests\\TestBase\\TestBase.cs",
-              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\TestBase\\TestBase.cs",
-              "RelativeToolTip": "EmployeeManagement.Tests\\TestBase\\TestBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:31:06.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BonusTestCases.json",
-              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\TestData\\BonusTestCases.json",
-              "RelativeDocumentMoniker": "EmployeeManagement.Tests\\TestData\\BonusTestCases.json",
-              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\TestData\\BonusTestCases.json",
-              "RelativeToolTip": "EmployeeManagement.Tests\\TestData\\BonusTestCases.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-14T12:30:55.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeValidationServiceTests.cs",
-              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\ValidationServiceTests\\EmployeeValidationServiceTests.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.Tests\\ValidationServiceTests\\EmployeeValidationServiceTests.cs",
-              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\ValidationServiceTests\\EmployeeValidationServiceTests.cs",
-              "RelativeToolTip": "EmployeeManagement.Tests\\ValidationServiceTests\\EmployeeValidationServiceTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:30:43.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DiscountServiceTests.cs",
-              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\DiscountServiceTests\\DiscountServiceTests.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.Tests\\DiscountServiceTests\\DiscountServiceTests.cs",
-              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\DiscountServiceTests\\DiscountServiceTests.cs",
-              "RelativeToolTip": "EmployeeManagement.Tests\\DiscountServiceTests\\DiscountServiceTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:30:33.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "BonusServiceTests.cs",
               "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\BonusServiceTests\\BonusServiceTests.cs",
               "RelativeDocumentMoniker": "EmployeeManagement.Tests\\BonusServiceTests\\BonusServiceTests.cs",
               "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\BonusServiceTests\\BonusServiceTests.cs",
               "RelativeToolTip": "EmployeeManagement.Tests\\BonusServiceTests\\BonusServiceTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:30:24.521Z",
+              "WhenOpened": "2025-12-14T12:41:21.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBonusService.cs",
-              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
-              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
-              "RelativeToolTip": "EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:30:06.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeValidationService.cs",
-              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Services\\EmployeeValidationService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.Core\\Services\\EmployeeValidationService.cs",
-              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Services\\EmployeeValidationService.cs",
-              "RelativeToolTip": "EmployeeManagement.Core\\Services\\EmployeeValidationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:29:38.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DiscountService.cs",
-              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Services\\DiscountService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.Core\\Services\\DiscountService.cs",
-              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Services\\DiscountService.cs",
-              "RelativeToolTip": "EmployeeManagement.Core\\Services\\DiscountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:29:38.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "BonusService.cs",
               "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Services\\BonusService.cs",
               "RelativeDocumentMoniker": "EmployeeManagement.Core\\Services\\BonusService.cs",
               "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Services\\BonusService.cs",
               "RelativeToolTip": "EmployeeManagement.Core\\Services\\BonusService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:29:37.97Z",
+              "WhenOpened": "2025-12-14T12:40:34.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBonusService.cs",
+              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
+              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
+              "RelativeToolTip": "EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:40:32.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Core\\Models\\Employee.cs",
+              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement.Core\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:40:31.87Z",
               "EditorCaption": ""
             }
           ]

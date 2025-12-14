@@ -1,0 +1,15 @@
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.exe
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.deps.json
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.runtimeconfig.json
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.dll
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfoInputs.cache
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfo.cs
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.csproj.CoreCompileInputs.cache
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.sourcelink.json
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.dll
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\obj\Debug\net8.0\refint\EmployeeManagement.Core.dll
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.pdb
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.genruntimeconfig.cache
+D:\Ramez\Learning\EmployeeManagement.UnitTestsDemo\EmployeeManagement.Core\obj\Debug\net8.0\ref\EmployeeManagement.Core.dll
