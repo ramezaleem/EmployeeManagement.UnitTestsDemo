@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\employeemanagement.tests\\bonusservicetests\\bonusservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|solutionrelative:employeemanagement.tests\\bonusservicetests\\bonusservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.tests\\validationservicetests\\employeevalidationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4C6F08-7DB4-40B4-AE93-BB944C2E0371}|EmployeeManagement.Tests\\EmployeeManagement.Tests.csproj|solutionrelative:employeemanagement.tests\\validationservicetests\\employeevalidationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\employeemanagement.core\\services\\bonusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|solutionrelative:employeemanagement.core\\services\\bonusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\employeemanagement.core\\services\\employeevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|solutionrelative:employeemanagement.core\\services\\employeevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|d:\\ramez\\learning\\employeemanagement.unittestsdemo\\employeemanagement.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|solutionrelative:employeemanagement.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\employeemanagement.core\\interfaces\\ibonusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952BD68E-6A9E-44DA-8D1F-A3C67129C4FE}|EmployeeManagement.Core\\EmployeeManagement.Core.csproj|solutionrelative:employeemanagement.core\\interfaces\\ibonusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,47 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BonusServiceTests.cs",
-              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\BonusServiceTests\\BonusServiceTests.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.Tests\\BonusServiceTests\\BonusServiceTests.cs",
-              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\BonusServiceTests\\BonusServiceTests.cs",
-              "RelativeToolTip": "EmployeeManagement.Tests\\BonusServiceTests\\BonusServiceTests.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAAAHEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:41:21.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BonusService.cs",
-              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Services\\BonusService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.Core\\Services\\BonusService.cs",
-              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Services\\BonusService.cs",
-              "RelativeToolTip": "EmployeeManagement.Core\\Services\\BonusService.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAUwEoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:40:34.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBonusService.cs",
-              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
-              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
-              "RelativeToolTip": "EmployeeManagement.Core\\Interfaces\\IBonusService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:40:32.473Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -75,9 +32,35 @@
               "RelativeDocumentMoniker": "EmployeeManagement.Core\\Models\\Employee.cs",
               "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Models\\Employee.cs",
               "RelativeToolTip": "EmployeeManagement.Core\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T12:40:31.87Z",
+              "WhenOpened": "2025-12-15T09:14:10.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeValidationServiceTests.cs",
+              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\ValidationServiceTests\\EmployeeValidationServiceTests.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Tests\\ValidationServiceTests\\EmployeeValidationServiceTests.cs",
+              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Tests\\ValidationServiceTests\\EmployeeValidationServiceTests.cs",
+              "RelativeToolTip": "EmployeeManagement.Tests\\ValidationServiceTests\\EmployeeValidationServiceTests.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAgwMIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:18:35.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeValidationService.cs",
+              "DocumentMoniker": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Services\\EmployeeValidationService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Core\\Services\\EmployeeValidationService.cs",
+              "ToolTip": "D:\\Ramez\\Learning\\EmployeeManagement.UnitTestsDemo\\EmployeeManagement.Core\\Services\\EmployeeValidationService.cs",
+              "RelativeToolTip": "EmployeeManagement.Core\\Services\\EmployeeValidationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T14:13:49.76Z",
               "EditorCaption": ""
             }
           ]
